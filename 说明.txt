@@ -1,0 +1,5 @@
+主程序是 unified_main.m
+
+程序中不考虑光的传播，用fft2和ifft2代替光的正向传播和逆向传播
+
+可以用circle_maks产生圆形支持域，也可以用triMask产生三角形支持域
